@@ -1,0 +1,62 @@
+https://youtu.be/cUWBYzA6M-8
+Tag of <HTML>
+tag ada yang berpasangan dan ada yang tidak berpasangaan
+
+Struktur dasar HTML:
+<!doctype html>
+<html>
+    <head>
+        <title></title>
+    </head>
+
+    <body>
+    
+    </body>
+</html>
+
+Tag <head> bisa ditambahkan
+    - Judul Halaman
+    <title> </title>
+    - CSS
+    <style> </style>
+    - javascript
+    <script> </script>
+    - metadata
+    <meta> </meta>
+
+Tag <body> bisa ditambahkan
+    - teks
+    <h1>, <h2>, <h3>, ..., <h6>, <p>, ...
+    - pendukung teks
+    <br>, <hr>, <em>, <strong>, ...
+    - gambar
+    <img>
+    - hyperlink
+    <a> (a = anchor)
+    - list (bullets & numbering)
+    <ul> (unordered list), <ol> (ordered list), <li> (list item), <dl> (definition list), <dt>, <dd>
+    - table
+    <table>, <thead>, <tbody>, ...
+    - form
+    <form>, <input>, <select>, <button>
+    - script (java script)
+    <script>
+    - object
+    <object>
+    - frouping
+    <div>, <span>
+
+Komentar
+    <!-- [Isi Komentar] -->
+
+Struktur tag
+    <namatagya atribut="nilai">
+    cth.
+    <body bgcolor="lightblue">
+    <body bgcolor="lightblue" id="myid" class="myclass">
+
+Atribut Global
+    accesskey (shortcut), class, id, dir (arah tulisan [diraction]), lang (bahasa), style (utk css), lang, tabindex, title
+
+Referensi
+www.w3school.com/Tags
