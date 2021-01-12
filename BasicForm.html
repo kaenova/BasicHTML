@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+
+        <form action="">
+            <input type="text" name="" id="">
+        </form>
+
+        <hr>
+
+        <h4>Ngasih label</h4>
+        <form action="">
+            <label for="username"><b>Username   : </b></label>
+            <input type="text" name="Username" id="username">
+            <br>
+            <label for="password"><b>Password   :</b></label>
+            <input type="password" name="Password" id="password">
+
+            <br><br>
+
+            <p><b>Jenis Kelamin</b></p>
+            <label for="Pria">Pria</label>
+            <input type="radio" name="JenisKelamin" id="Pria">
+            <label for="Wanita">Wanita</label>
+            <input type="radio" name="JenisKelamin" id="Wanita">
+            <!--
+                atribut name berguna untuk grouping, sehingga pada radio button tidak akan dapat memilih keduanya
+            -->
+
+            <br><br>
+
+            <p><b>HOBBY</b></p>
+            <label for="Menyanyi">Menyanyi</label>
+            <input type="checkbox" name="Hobby" id="Penyanyi">
+            <label for="Bermain">Bermain</label>
+            <input type="checkbox" name="Hobby" id="Bermain">
+            <label for="Bruh">Bruh</label>
+            <input type="checkbox" name="Hobby" id="Bruh">
+
+            <br><br>
+
+            <button type="button">Bruh</button> <!-- Tidak disaarankan menggunakan input Karena biasanya tombol itu bukan suatu input-->
+        </form>
+        <br>
+        <hr>
+        <br>
+        <form action="">
+            <textarea name="" id="" cols="30" rows="10"></textarea>
+        </form>
+        <br>
+        <hr>
+        <br>
+        <form action="">
+            <select name="" id="">
+                <option value="Jakarta">Gud</option>
+                <option value="Jakarta">Get</option>
+                <option value="Jakarta">Git</option>
+            </select>
+        </form>
+
+    </body>
+</html>
+
+<!--
+    Mengelola data dari input dari sebuah user
+    Jenis
+    1. Text Field
+    2. Combo box / Drop down / List Box
+    3. Radio Button
+    4. Check Box
+
+    Dasar
+    <form></form>
+
+    Elemen
+    1. Input = user menginputkan sesuatu
+        <input type="">
+        ada atribut:
+        text, password, radio, checkbox, submit, reset button
+    2. Textarea = menginputkan pesan
+        <textarea></textarea>
+    3. Select = membuat dropdown
+        <select></select>
+        <option> {untuk menambahkan opsion2 pada dropdown}
+    4. Button = sebagai tombol
+        <button type=""> </button>
+        ada atribut
+        submit, reset, button
+    5. Label = menandai sebuah elemen input
+-->
