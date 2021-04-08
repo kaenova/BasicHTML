@@ -1,8 +1,9 @@
 # BasicHTML
-Basic HTML Private Training from Web Programming UNPAS
+Basic HTML Private Training from Web Programming UNPAS amd Dev Dreamer
 Here's the playlist:
-https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F
-Thanks to Sandhika Galih who's kindly make this free to learn for everyone and it's easy to understand.
+[HTML Dasar](https://www.youtube.com/watch?v=NBZ9Ro6UKV8&list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F)  
+[HTML/5 Full Tutorial](https://www.youtube.com/playlist?list=PL7TLF4T4Tq2RNvYzF45yOeFi-O1KRAWtu)  
+Thanks to Sandhika Galih and Dev Dreamer who's kindly make this free to learn for everyone and it's easy to understand.
 
 Some images are copyrighted:
  - Sample1.jpg: [dungeon fighter online, DNF, scenery / ウェストコースト - pixiv](https://www.pixiv.net/en/artworks/67003464)

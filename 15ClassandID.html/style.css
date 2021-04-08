@@ -1,0 +1,16 @@
+#red-section {
+    background-color: red;
+}
+
+#blue-section {
+    background-color: green;
+}
+
+.white-text {
+    color: whitesmoke;
+}
+
+/* 
+ID should use on single element
+Class is used for styling multiple section
+*/
